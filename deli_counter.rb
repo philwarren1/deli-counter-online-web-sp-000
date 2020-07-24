@@ -6,6 +6,7 @@ def line(array)
 else
   return take_a_number(array) 
 end
+end 
 
 def take_a_number(katz_deli, array)
 end
