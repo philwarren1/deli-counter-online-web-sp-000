@@ -4,5 +4,5 @@ def line(array)
    return
   "The line is currently empty"
 else
-  return 
+  return take_a 
 end
